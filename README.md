@@ -8,7 +8,7 @@
 - Chia
 - Xóa (DEL)
 - Giao diện đơn giản và dễ sử dụng
-- Hình ảnh
+
   ![image](https://github.com/Dotrang149/Calculator/assets/95564136/88203138-375c-476a-8013-1f003393bf33)
 
 
