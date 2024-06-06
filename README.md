@@ -14,10 +14,7 @@
 
 ## Cài đặt
 Để cài đặt và chạy ứng dụng trên máy, thực hiện các bước sau:
-1. Clone repository:
-bash
-Copy code
-git clone https://github.com/Dotrang149/Calculator.git
+1. Clone repository: git clone https://github.com/Dotrang149/Calculator.git
 2. Mở project trong Android Studio.
 3. Build và chạy project trên emulator hoặc thiết bị thật.  
 
